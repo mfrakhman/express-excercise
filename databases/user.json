@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "password": "Bob",
+    "email": "bob@example.com"
+  },
+  {
+    "id": 2,
+    "email": "hendar@binar.com",
+    "password": "123"
+  },
+  {
+    "id": 2,
+    "email": "hendar@binar.com",
+    "password": "123"
+  },
+  {
+    "id": 2,
+    "email": "hendar2@binar.com",
+    "password": "123"
+  },
+  {
+    "id": "1",
+    "email": "fahman.tahrim@gmail.com",
+    "password": "1234567"
+  },
+  {
+    "id": 4,
+    "email": "hendar@clodeo.com",
+    "password": "123"
+  },
+  {
+    "id": 4,
+    "email": "hendar2@clodeo.com",
+    "password": "123"
+  }
+]
